@@ -1,0 +1,8 @@
+bind_addr = ":8080"
+log_level = "debug"
+mdb_con = "mongodb://localhost:27017"
+users_data_db = "usersdata"
+users_col = "users"
+protect_key = "alcohol"
+cache_live_time_min = 10
+cleaning_interval_min = 5
